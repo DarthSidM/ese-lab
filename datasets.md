@@ -10,4 +10,4 @@
 `https://www.kaggle.com/datasets/mirzayasirabdullah07/software-defect-prediction-dataset` , defect is the target
 
 ## nasa 
-`https://github.com/ApoorvaKrisna/NASA-promise-dataset-repository` 
+`https://github.com/ApoorvaKrisna/NASA-promise-dataset-repository` my kaggle dataset to directly add in kaggle->`https://www.kaggle.com/datasets/darthsid1234/nasa-sid-dataset`
